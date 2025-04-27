@@ -1,0 +1,11 @@
+setuptools==69.1.1
+flask==2.3.3
+werkzeug==2.3.7
+tensorflow==2.16.1
+h5py>=3.10.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.4.0
+gunicorn==20.1.0 
